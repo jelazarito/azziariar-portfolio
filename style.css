@@ -41,9 +41,10 @@ footer {
 
 .abtme{
     margin-bottom: 10px;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
     margin-top: 50px;
+    text-align: justify;
 }
 
 .card-header{
@@ -60,5 +61,6 @@ blockquote{
 body{
     background-image: linear-gradient(to bottom, #fafdff, #dff1ff);
 }
+
 
 
